@@ -8,6 +8,10 @@ Basic Email validator.
 $ npm install emailvalidator
 ```
 
+```sh
+$ git fork https://github.com/supardyke/node_email_validator
+```
+
 ## API
 
 ```js
@@ -20,4 +24,4 @@ Parse an email address to the module,it validates and returns a boolean value of
 
 ## License
 
-[ISC](LICENSE)
+[MIT](LICENSE)
